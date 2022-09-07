@@ -11,7 +11,7 @@ import { TabHead, TabContainer, TabBody, Tab } from "../globals"
 import PHead from './partial/PHead'
 import Header from './partial/Header'
 import Footer from './partial/Footer'
-import Tabs from './components/Tabs'
+import Tabs from './component/Tabs'
 export default function Home() {
 	 useEffect(() =>
     {        
